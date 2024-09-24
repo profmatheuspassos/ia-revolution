@@ -537,3 +537,4 @@ Lembre-se de adaptar o tom e o estilo do resumo de acordo com o objetivo do usu�
 - Remova os caracteres de formatação de texto. A formatação do resumo deve ser em plain text.
 ```
 * No Relevance AI, no menu principal, clicar em "Tools", depois em "New", e usar o "Custom actions". Selecionar duas Tools e seguir os outros passos normais (criar API Key, etc.).
+

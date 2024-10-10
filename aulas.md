@@ -422,6 +422,13 @@ Siga estas instruções para completar a tarefa:
 * Depois em "Tools steps", usar o "Extract website content" (já pré-integrado pela Relevance AI).
 * Do lado esquerdo, na engrenagem, não esquecer de integrar a chave da API da OpenAI.
 * Adicionar mais um passo, que é a passagem do resultado do scrapping para uma LLM --> inserir um prompt incluindo as variáveis definidas nos passos anteriores.
+```
+{{scrape.output.page}}  
+
+Por favor, resuma o conteúdo do site fornecido acima, e gere um resumo com as informações mais importantes baseado neste objetivo: {{objetivo_scrapping}}  
+
+Sempre escreva sua resposta em português do Brasil.
+```
 * Uma vez criada a tool, é necessário integrá-la ao Agent criado anteriormente --> menu "Agents", seleciona o Agent criado anteriormente --> botão com a engrenagem --> clicar em "Tools" e adicioná-la ao Agent.
 
 **Subagent e seu sistema Multiagentes em ação**

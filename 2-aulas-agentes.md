@@ -253,4 +253,3 @@ Lembre-se de adaptar o tom e o estilo do resumo de acordo com o objetivo do usu√
 * https://www.make.com
 
 **N√≠vel 3**
-

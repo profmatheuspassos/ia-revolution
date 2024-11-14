@@ -56,4 +56,3 @@ Mesmo quando você executar o prompt final na conversa, coloque essa opção no 
 
 3. PDF por trás do Prompt Mestre 2.0
     * Ver documento em /Dropbox/CURSOS REALIZADOS/101 IA Revolution
-

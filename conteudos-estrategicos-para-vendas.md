@@ -1,2 +1,2 @@
 **Conteúdos estratégicos para vendas**
-* 2024-12-07
+* 2024-12-08
